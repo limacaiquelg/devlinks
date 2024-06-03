@@ -8,13 +8,13 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-light.png")
     img.setAttribute(
       "alt",
-      "Foto do Mayk Brito sorrindo, usando óculos escuros, camiseta preta, jaqueta de couro em fundo gradiente de rosa para azul claro."
+      "Foto do Caique Lima sorrindo usando camiseta branca e óculos escuros em um fundo gradiente de azul para verde-água."
     )
   } else {
     img.setAttribute("src", "./assets/avatar.png")
     img.setAttribute(
       "alt",
-      "Foto do Mayk Brito sorrindo, usando óculos, camiseta preta e barba em um fundo amarelo."
+      "Foto do Caique Lima sorrindo usando camiseta preta em um fundo laranja."
     )
   }
 }
